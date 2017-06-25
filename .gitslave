@@ -2,7 +2,6 @@
 "https://github.com/JulesWang/css.vim.git" "css.vim"
 "https://github.com/chrisbra/csv.vim.git" "csv.vim"
 "https://github.com/editorconfig/editorconfig-vim.git" "editorconfig-vim"
-"https://github.com/editorconfig/editorconfig-plugin-tests.git" "editorconfig-vim/tests/spec/plugin_tests"
 "https://github.com/kpanasiuk/ftplugins.git" "ftplugins"
 "https://github.com/kchmck/vim-coffee-script.git" "vim-coffee-script"
 "https://github.com/ngkaho1234/vim-colortest.git" "vim-colortest"
