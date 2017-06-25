@@ -1,0 +1,12 @@
+/Vundle.vim/
+/css.vim/
+/csv.vim/
+/editorconfig-vim/
+/editorconfig-vim/tests/spec/plugin_tests/
+/ftplugins/
+/vim-coffee-script/
+/vim-colortest/
+/vim-css-color/
+/vim-less/
+/vim-stylus/
+/yajs.vim/
